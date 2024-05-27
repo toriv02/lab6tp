@@ -1,0 +1,16 @@
+E:\2-й курс\технологии программирования\6-я лабараторная работа\lab6net6\lab6net6\bin\Debug\net6.0-windows\lab6net6.exe
+E:\2-й курс\технологии программирования\6-я лабараторная работа\lab6net6\lab6net6\bin\Debug\net6.0-windows\lab6net6.deps.json
+E:\2-й курс\технологии программирования\6-я лабараторная работа\lab6net6\lab6net6\bin\Debug\net6.0-windows\lab6net6.runtimeconfig.json
+E:\2-й курс\технологии программирования\6-я лабараторная работа\lab6net6\lab6net6\bin\Debug\net6.0-windows\lab6net6.dll
+E:\2-й курс\технологии программирования\6-я лабараторная работа\lab6net6\lab6net6\bin\Debug\net6.0-windows\lab6net6.pdb
+E:\2-й курс\технологии программирования\6-я лабараторная работа\lab6net6\lab6net6\obj\Debug\net6.0-windows\lab6net6.Form1.resources
+E:\2-й курс\технологии программирования\6-я лабараторная работа\lab6net6\lab6net6\obj\Debug\net6.0-windows\lab6net6.csproj.GenerateResource.cache
+E:\2-й курс\технологии программирования\6-я лабараторная работа\lab6net6\lab6net6\obj\Debug\net6.0-windows\lab6net6.GeneratedMSBuildEditorConfig.editorconfig
+E:\2-й курс\технологии программирования\6-я лабараторная работа\lab6net6\lab6net6\obj\Debug\net6.0-windows\lab6net6.AssemblyInfoInputs.cache
+E:\2-й курс\технологии программирования\6-я лабараторная работа\lab6net6\lab6net6\obj\Debug\net6.0-windows\lab6net6.AssemblyInfo.cs
+E:\2-й курс\технологии программирования\6-я лабараторная работа\lab6net6\lab6net6\obj\Debug\net6.0-windows\lab6net6.csproj.CoreCompileInputs.cache
+E:\2-й курс\технологии программирования\6-я лабараторная работа\lab6net6\lab6net6\obj\Debug\net6.0-windows\lab6net6.dll
+E:\2-й курс\технологии программирования\6-я лабараторная работа\lab6net6\lab6net6\obj\Debug\net6.0-windows\refint\lab6net6.dll
+E:\2-й курс\технологии программирования\6-я лабараторная работа\lab6net6\lab6net6\obj\Debug\net6.0-windows\lab6net6.pdb
+E:\2-й курс\технологии программирования\6-я лабараторная работа\lab6net6\lab6net6\obj\Debug\net6.0-windows\lab6net6.genruntimeconfig.cache
+E:\2-й курс\технологии программирования\6-я лабараторная работа\lab6net6\lab6net6\obj\Debug\net6.0-windows\ref\lab6net6.dll
